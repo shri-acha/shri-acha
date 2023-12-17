@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shri-acha" alt="shri-acha" /></a> </p>
 
-- 🔭 I’m currently working on [planet simulation](https://github.com/shri-acha/Planet-Simulation)
+- 🔭 I’m currently working on a [Game](https://github.com/shri-acha/NoseTrackingGame/)
 
 - 🌱 I’m currently learning **Python**
 
